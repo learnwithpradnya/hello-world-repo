@@ -10,7 +10,7 @@ jobs:
 
    steps:
     - name:  Echo text
-      run: |
+      run:  |
         echo "Hello, world!"
 
 
